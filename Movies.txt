@@ -1,0 +1,77 @@
+<html> 
+<head> 
+  <meta charset="utf-8" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>RSG Prime - Recently Addeded</title> 
+  <link rel="icon" href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Logo2 - Copy.ico"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-
+3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script><!-search-> 
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+  <script src="script.js"></script>  
+  <style> 
+ 
+  </style> 
+  </head> 
+<body> 
+<div class="wrapper"> 
+ 
+    <!-- HEADER --> 
+    <header> 
+      <div class="logo"> 
+        <a id="logo" href="https://www.rsgprime.com/home" target="blank"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Logo2.png" alt="Logo Image" width="150px" height="100px"></a> 
+      </div>       
+      <nav class="main-nav">                 
+        <a href="#home">Home</a> 
+        <a href="#movies">Movies</a> 
+        <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Recently Added.html">Recently Added</a> 
+      </nav> 
+      <nav class="sub-nav"><!--for search icon and bell icon--> 
+        <a href="#"><i class="fas fa-search sub-nav-logo"></i></a> 
+        <a href="#"><i class="fas fa-bell sub-nav-logo"></i></a> 
+        <a href="#">Account</a>         
+      </nav>      
+    </header> 
+    <!-- END OF HEADER --> 
+     
+    <!-- MAIN CONTENT --> 
+    <section class="main-container" > 
+      <h1 id="home">MOVIES</h1> 
+          <div class="box"> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\1 kudha hafiz.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Bollyhood\Images3.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\2 vikram.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\South\1.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\3 dilbechara.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Bollyhood\Images1.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\4 warrior.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\South\4.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\5 ante sundra.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\South\5.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\6 brahamastra.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Bollyhood\Images4.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\21 bhool 2.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Bollyhood\Images6.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\22 shersha.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Bollyhood\Images7.jpg" alt=""></a> 
+      <a href="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Pages\23 jug jug jeo.html"><img src="C:\Users\Lenovo Gowtham\Desktop\Video Streaming Website\Images\Bollyhood\Images5.jpg" alt=""></a> 
+        </div> 
+    <!-- END OF MAIN CONTENT --> 
+ 
+    <!-- LINKS  -->  
+    <section class="link"> 
+      <div class="sub-links"> 
+        <ul> 
+          <li><a href="#">Help Center</a></li> 
+          <li><a href="#">Gift Cards</a></li> 
+          <li><a href="#">Media Center</a></li> 
+          <li><a href="#">Terms of Use</a></li> 
+          <li><a href="#">Privacy</a></li> 
+          <li><a href="#">Legal Notices</a></li> 
+          <li><a href="#">Corporate Information</a></li> 
+          <li><a href="#">Contact Us</a></li> 
+        </ul> 
+      </div> 
+    </section> 
+    <!-- END OF LINKS --> 
+ 
+    <!-- FOOTER --> 
+  <footer> 
+      <p>&copy 2021-2024 RSG Prime, Inc.</p> 
+      <p>Gowtham Saranya Gowtham &copy 2022</p> 
+    </footer> 
+  </div> 
+</body> 
+</html>
